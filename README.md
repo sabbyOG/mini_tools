@@ -1,5 +1,5 @@
 # mini_tools
-mini_tools going to be series cybersecurity tools build for automation & scanning .
 
+This mini_tools repository gonna be set of collection of CyberSecurity tools.
 
-###1.WEB SCRAPPER
+feel free to contribute.
